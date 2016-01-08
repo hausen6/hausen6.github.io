@@ -4,6 +4,7 @@ output/*
 
 # python
 *.py[cod]
+.python-version
 
 # osx
 .DS_Store
